@@ -1,4 +1,6 @@
 📊 SanDisk Employee Attrition Analysis – Tableau Project
+
+
 📁 Project Overview
 This project focuses on understanding employee attrition trends at SanDisk using Tableau. A data-driven story has been created that starts with a high-level overview and progressively dives deeper into specific insights, answering key business questions related to workforce dynamics.
 
