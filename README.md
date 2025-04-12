@@ -5,19 +5,20 @@
 This project focuses on understanding employee attrition trends at SanDisk using Tableau. A data-driven story has been created that starts with a high-level overview and progressively dives deeper into specific insights, answering key business questions related to workforce dynamics.
 
 🔍 Problem Statements Addressed
-Attrition Risk Analysis:
+
+1. Attrition Risk Analysis:
 Identify groups of employees at high risk of attrition.
 
-Tenure Range Analysis:
+2. Tenure Range Analysis:
 Determine the range of tenure during which most employees tend to leave.
 
-Position-wise Employee Count:
+3. Position-wise Employee Count:
 Find out which job position has the maximum number of employee records.
 
-Demographic Insights:
+4. Demographic Insights:
 Discover which population group represents the largest segment.
 
-Degree-Level Opportunities:
+5. Degree-Level Opportunities:
 Analyze which degree level is most likely to secure employment opportunities.
 
 📚 Tableau Story Highlights
